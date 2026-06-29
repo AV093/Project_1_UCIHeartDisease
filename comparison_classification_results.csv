@@ -1,0 +1,12 @@
+KNN 0.789826 
+ConfusionMat_KNN 
+308 83 
+ 74 282 
+NB 0.838019 
+ConfusionMat_NB 
+327 64 
+ 57 299 
+SVM 0.862115 
+ConfusionMat_SVM 
+334 57 
+ 46 310 
